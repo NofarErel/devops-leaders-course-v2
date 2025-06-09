@@ -3,7 +3,7 @@ name: CI Pipeline (Session 2)
 on:
   workflow_dispatch:
   push:
-    branches: [ session2 ]
+    branches: ["*"]
 
 
 jobs:
